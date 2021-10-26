@@ -35,7 +35,7 @@ public class Todo {
     }
 
     public String getDescription() {
-        return description+" + comment added by Ruka";
+        return description+" + comment added by Ruka today";
     }
 
     public void setDescription(String description) {
